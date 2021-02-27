@@ -5,7 +5,8 @@ Built a model using Multilayer Perceptron(MLP) Classifier to recognize emotions 
 
 MLP optimizes the log loss function and has its own feedforward Artificial Neural Network.
 
-Created an dictionary with different emotion.
+Created a dictionary with a different emotion.
 
-Calculated the accuracy of the model using metrics from sklearn .
+Calculated the accuracy of the model using metrics from sklearn.
 
+Trained the model and achieved an accuracy of 71.88%.
